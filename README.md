@@ -87,9 +87,6 @@ This second file mimics what would be present in a normalized product database.
 
 - **Product Category Sales Breakdown**
 - **Sales by Supplier**
-- **Product Warranty Analysis**
-- **Stock Availability vs. Profit**
-- **Detailed Product Table** with ratings, launch dates, and categories
 
 Each visual proves the effectiveness of merging distinct data sources for richer analysis.
 
